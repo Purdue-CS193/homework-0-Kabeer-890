@@ -6,6 +6,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # Kabeer's First CS193 Homework
 
+### Things I Like About CS193
+- Helps me learn about tools
+- Easygoing Instructors
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
